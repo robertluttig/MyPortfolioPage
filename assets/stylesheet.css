@@ -5,7 +5,14 @@ header{
     font-family: 'Montserrat', sans-serif;
     margin-bottom: 20px;
 }
-.skills{
+.skills, .projects{
     font-family: 'Montserrat', sans-serif;
-    margin-top: 20px;
+}
+
+.img-fluid{
+    margin-bottom: 20px;
+}
+.weatherPic{
+    height: 280px;
+    width: 100%;
 }
