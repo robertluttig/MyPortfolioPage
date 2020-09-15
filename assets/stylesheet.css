@@ -1,17 +1,28 @@
 body{
-    background-color: rgb(210, 232, 247);
+    background-color: rgb(65, 64, 64);
 }
 header{
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
     margin-bottom: 20px;
+    margin-top: 20px;
+    color: aliceblue;
+}
+.img-fluid {
+    margin-bottom: 20px;
+    margin-top: 20px;
+    width: 70%; 
+    height: 90%
 }
 .skills, .projects{
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 50px;
+    color: aliceblue;
+}
+.skillsP{
+    margin-left: 50px;
+
 }
 
-.img-fluid{
-    margin-bottom: 20px;
-}
 .weatherPic{
     height: 280px;
 }
