@@ -1,11 +1,21 @@
 body{
-    background-color: rgb(65, 64, 64);
+    background-color: rgb(21, 20, 37);
 }
-header{
+.indexHeader{
     font-family: 'Roboto', sans-serif;
     margin-bottom: 20px;
     margin-top: 20px;
-    color: aliceblue;
+    color: rgb(203, 210, 216);
+}
+.contactHeader{
+    font-family: 'Roboto', sans-serif;
+    color:  rgb(203, 210, 216);
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.headerProject{
+    margin-bottom: 30px;
 }
 .img-fluid {
     margin-bottom: 20px;
@@ -16,13 +26,12 @@ header{
 .skills, .projects{
     font-family: 'Roboto', sans-serif;
     margin-top: 50px;
-    color: aliceblue;
+    color: rgb(203, 210, 216);
 }
 .skillsP{
     margin-left: 50px;
 
 }
-
 .weatherPic{
     height: 280px;
 }
@@ -47,5 +56,8 @@ header{
     
 }
 .profileText{
-    color: aliceblue;
+    color:  rgb(203, 210, 216);
+}
+.textContact{
+    color: rgb(203, 210, 216);
 }
